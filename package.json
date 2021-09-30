@@ -19,6 +19,7 @@
     "mongoose": "^6.0.8"
   },
   "devDependencies": {
+    "cors": "^2.8.5",
     "nodemon": "^2.0.13",
     "prettier": "^2.4.1"
   }
