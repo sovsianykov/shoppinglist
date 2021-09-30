@@ -16,10 +16,10 @@
     "body-parser": "^1.19.0",
     "concurrently": "^6.2.2",
     "express": "^4.17.1",
-    "mongoose": "^6.0.8"
+    "mongoose": "^6.0.8",
+    "cors": "^2.8.5"
   },
   "devDependencies": {
-    "cors": "^2.8.5",
     "nodemon": "^2.0.13",
     "prettier": "^2.4.1"
   }
